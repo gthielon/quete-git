@@ -2,4 +2,9 @@
 #modification 2
 
 
-commit -m readme.md
+git add readme.md
+git pull origin master
+
+git commit -m . 
+
+git push https://github.com/gthielon/quete-git master
